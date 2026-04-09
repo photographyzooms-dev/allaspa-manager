@@ -1,0 +1,1 @@
+# allaspa-manager
